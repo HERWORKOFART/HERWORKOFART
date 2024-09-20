@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm a software engineering student, interested in anything that entails creativity🤎<br><br><br>• 📚 I'm currently learning Javascript<br>•⚡ Love good music and food</p>
+<p align="left">I'm a software engineering student, interested in anything that entails creativity🤎<br><br><br>• 📚 I'm currently learning Javascript and Python<br>•⚡ Love good music and food</p>
 
 ###
 
